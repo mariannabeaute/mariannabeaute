@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marianna Beaute</h1>
 <h3 align="center">Data Analyst</h3>
-<img align="right" alt="Coding" width="200" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-VHAPHKYCoFJTL7k-utZUdCOt1IY7smHpww&usqp=CAU](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 - 🔭 I’m currently working on [Project Practice](https://github.com/mariannabeaute/project-practice)
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/mbeaute](https://sites.google.com/view/mbeaute)
