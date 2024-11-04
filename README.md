@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **mariannabeaute@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/marianna-beaute/](https://www.linkedin.com/in/marianna-beaute/)
 
 <h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/marianna-beaute/
 <p align="left">
